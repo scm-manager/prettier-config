@@ -1,0 +1,15 @@
+{
+  "name": "@scm-manager/prettier-config",
+  "version": "2.10.0-SNAPSHOT",
+  "license": "MIT",
+  "description": "Prettier configuration for SCM-Manager related projects",
+  "author": "SCM-Team <scm-team@cloudogu.com>",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^1.19.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
