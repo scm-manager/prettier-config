@@ -1,7 +1,7 @@
 {
   "name": "@scm-manager/prettier-config",
   "version": "2.10.0-SNAPSHOT",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "description": "Prettier configuration for SCM-Manager related projects",
   "author": "SCM-Team <scm-team@cloudogu.com>",
   "private": false,
